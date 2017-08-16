@@ -1,11 +1,8 @@
 {
-  "name": "challenges",
   "version": "1.0.0",
-  "description": "Engineering Challenges from Tripping.com for Interview Candidates",
   "scripts": {
-    "start": "./node_modules/nodemon/bin/nodemon.js ./frontend/app.js"
+    "start": "./node_modules/nodemon/bin/nodemon.js ./src/app.js"
   },
-  "author": "tripping.com",
   "license": "ISC",
   "dependencies": {
     "babel-standalone": "^6.18.2",

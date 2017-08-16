@@ -1,6 +1,5 @@
-// ---------------------------------------------------------------
-// List classes / your own written libraries here
-// ---------------------------------------------------------------
+'use strict';
+
 class ToDoApp {
   constructor() {
     this.addListButton = document.getElementById('create-list');
