@@ -16,13 +16,13 @@ Setup includes:
 To use this application, you will need to download and install [NodeJS](https://nodejs.org/download/).
 
 Once you have NodeJS installed, clone this repository to your local machine:
-```
+
 Next, install the NPM dependencies:
 ```
 cd To-Do-App-ES6
-
 npm install
 ```
+
 And start the local server:
 ```
 npm run start
